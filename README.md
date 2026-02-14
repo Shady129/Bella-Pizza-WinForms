@@ -44,6 +44,11 @@ Bella Pizza is a Windows Forms application that allows users to customize their 
 
 ---
 
+## 📷 Application Preview
+
+![Preview](preview.png)
+
+
 ## 💡 Author
 Shady Mahmoud
 Developed as a hands-on Windows Forms training project.
